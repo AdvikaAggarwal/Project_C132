@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+#back_bt{
+    width: 100px;
+    height: 100px;
+}
+
+#status , #number_of_objects
+{
+font-size: 18px;
+}
+
+.stat
+{
+    background-color: rgb(69, 76, 121);
+    color: whitesmoke;
+}
+.num
+{
+    background-color: rgb(175, 108, 145);
+    color: whitesmoke;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px rgb(255, 109, 55);
+    border-radius: 10px;
+    margin-top: 30px;
+}
